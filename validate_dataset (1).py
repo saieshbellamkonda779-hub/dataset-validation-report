@@ -1,4 +1,4 @@
-"""Chunked validation for the EconoCausal project dataset."""
+validate_dataset.py
 import argparse
 import pandas as pd
 
